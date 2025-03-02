@@ -1,61 +1,64 @@
-Transition Location UI
+Got it! Here's the updated **README** with "Gallery of Suiet" referring to **Srinivas University**:  
 
-A Flutter application that provides an interactive UI for showcasing different locations with smooth transitions and animations.
+---
 
-Features
+# **Gallery of Suiet (Srinivas University)**  
 
-Animated transition effects for location details.
+A Flutter application that provides an interactive UI for showcasing different locations within **Srinivas University**, with smooth transitions and animations.  
 
-PageView for browsing multiple locations.
+## **Features**  
 
-Star rating system for locations.
+- Animated transition effects for university locations.  
+- PageView for browsing multiple places within the campus.  
+- Star rating system for locations.  
+- User reviews with profile images.  
+- Expandable content view with address and rating details.  
 
-User reviews with profile images.
+## **Installation**  
 
-Expandable content view with address and rating details.
+### **Clone the repository:**  
+```bash
+git clone https://github.com/snk-git-hub/gallery_suiet_flutter
+```
 
-Installation
+### **Navigate to the project directory:**  
+```bash
+cd gallery_suiet
+```
 
-Clone the repository:
-
-git clone https://github.com/snk-git-hub/gallery_transition_flutter
-
-Navigate to the project directory:
-
-cd transition_location_ui
-
-Install dependencies:
-
+### **Install dependencies:**  
+```bash
 flutter pub get
+```
 
-Run the app:
-
+### **Run the app:**  
+```bash
 flutter run
+```
 
-Dependencies
+## **Dependencies**  
 
-Ensure the following dependencies are included in pubspec.yaml:
-
+Ensure the following dependencies are included in `pubspec.yaml`:  
+```yaml
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+```
 
-Usage
+## **Usage**  
 
-Swipe up/down to expand and collapse location details.
+- Swipe up/down to expand and collapse location details.  
+- Scroll horizontally to browse through different university locations.  
 
-Scroll horizontally to browse through locations.
+## **Screenshots**  
 
-Screenshots
+![Gallery of Suiet](https://github.com/user-attachments/assets/eb9644b2-680b-4a00-af75-5c26dbe90e43)  
 
-![qqq](https://github.com/user-attachments/assets/eb9644b2-680b-4a00-af75-5c26dbe90e43)
+## **Contributing**  
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to modify.  
 
 
-Contributing
+---
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
