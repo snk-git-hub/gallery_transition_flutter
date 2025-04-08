@@ -1,4 +1,4 @@
-Got it! Here's the updated **README** with "Gallery of Suiet" referring to **Srinivas University**:  
+Got it! Here's the updated **README** with "Gallery of Suiet" referring to **University app**:  
 
 ---
 
